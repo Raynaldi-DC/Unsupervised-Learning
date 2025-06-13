@@ -1,4 +1,6 @@
 # IDXCluster: Automatic Stock Index Construction using Gaussian Mixture Model
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 📌 Automatically construct a stock index (like LQ45) from Yahoo Finance data using clustering algorithms, focused on Indonesian main board stocks.
 
 ---
@@ -23,7 +25,7 @@ From a dataset of 300+ IDX stocks:
 ```
 IDXCluster/
 ├── notebook/
-│   └── Tugas_Akhir_Cluster_Saham_YahooFinance.ipynb   # Main notebook
+│   └── Cluster_Indonesian_Stock.ipynb   # Main notebook
 ├── requirements.txt                                   # Python dependencies
 ├── README.md                                          # Project documentation
 ```
@@ -46,7 +48,6 @@ jupyter notebook notebook/Tugas_Akhir_Cluster_Saham_YahooFinance.ipynb
 ```
 
 ## 🛠️ Tech Stack
-
 - `yfinance`
 - `pandas`
 - `scikit-learn`
