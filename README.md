@@ -1,4 +1,4 @@
-# 🧠 Unsupervised Learning
+# 📊 Unsupervised Learning
 This repository contains projects related to **Unsupervised Learning**. It focuses on processing and analyzing unstructured, human-generated text (natural language).
 
 ## 📁 Project List
